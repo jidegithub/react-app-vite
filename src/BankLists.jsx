@@ -7,7 +7,7 @@ export default function BankList() {
       {"code":"801","slug":"abbey-mortgage-bank","name":"Abbey Mortgage Bank","country":"Nigeria","currency":"NGN"},
       {"code":"044","slug":"access-bank","name":"Access Bank","country":"Nigeria","currency":"NGN"},
       {"code":"063","slug":"access-bank-diamond","name":"Access Bank (Diamond)","country":"Nigeria","currency":"NGN"},
-      {"code":"035A","slug":"alat-by-wema","name":"ALAT by WEMA","country":"Nigeria","currency":"NGN"}
+      {"code":"011A","slug":"alat-by-wema","name":"ALAT by WEMA","country":"Nigeria","currency":"NGN"}
     ]
   }
 
