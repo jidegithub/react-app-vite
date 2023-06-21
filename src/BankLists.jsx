@@ -24,12 +24,6 @@ export default function BankList() {
   const number_of_banks = banks.data.length
   return (
     <div style={{ display:'flex'}}>
-      {/* use firstName here */}
-      <h1>{firstName}</h1>
-      {/* use Gender here */}
-      <h2>{Gender}</h2>
-      {/* use LastName here */}
-      <h3>{LastName}</h3>
       {number_of_banks}
       {banks.data.map((bank,index) =>
           <SingleBank bank={bank} key={index}/>
